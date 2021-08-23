@@ -1,0 +1,2 @@
+# Informacion
+ Informacion de Equipos
